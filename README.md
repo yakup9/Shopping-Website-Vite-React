@@ -22,7 +22,7 @@ This is a simple and modern shopping website built using Vite and React. The pro
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/shopping-website-vite-react.git
+   git clone https://github.com/yakup9/Shopping-Website-Vite-React.git
    ```
 2. **Navigate to the project directory**:
    ```bash
